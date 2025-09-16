@@ -1,0 +1,12 @@
+# requirements.txt for Tech Quizathon Buzzer (Tkinter + Pygame)
+# pip install -r requirements.txt
+
+pygame>=2.1.0
+
+# Notes:
+# - tkinter is part of the Python standard library (on most installs). Do NOT include it here.
+# - If you're on Linux, you may need system packages for SDL (the backend used by pygame).
+# - If you want deterministic builds, pin exact versions (e.g. pygame==2.1.3).
+
+# Example (optional):
+# pygame==2.1.3
