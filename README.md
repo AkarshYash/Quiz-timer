@@ -68,7 +68,7 @@ Perfect for **quiz competitions, hackathons, or college fests** 🎤
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/Tech-Quizathon-Buzzer.git
+   git clone https://github.com/AkarshYash/Quiz-timer
    cd Tech-Quizathon-Buzzer
    ```
 
@@ -81,7 +81,7 @@ Perfect for **quiz competitions, hackathons, or college fests** 🎤
 3. Run the app:
 
    ```bash
-   python quizathon_buzzer.py
+   python app.py run
    ```
 
 ---
