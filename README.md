@@ -16,7 +16,9 @@ Perfect for **quiz competitions, hackathons, or college fests** 🎤
 
 ## 🖼️ Demo Preview
 
-*(Add screenshots or GIFs here of the running app, e.g. showing the timer, buttons, and animations.)*
+https://github.com/user-attachments/assets/3685a6d6-da75-4a69-b83a-22c1c6364fc8
+
+
 
 ---
 
